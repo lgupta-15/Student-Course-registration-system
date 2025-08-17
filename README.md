@@ -43,10 +43,7 @@ The goal of this project is to *apply core Java Object-Oriented Programming (OOP
 
 ---
 
-## 📸 Screenshots
-(Add 2–3 screenshots of your code or console output here)
 
----
 
 ## 🙌 Acknowledgment
 This project was developed as part of my *Java Developer Internship at Info Bharat Interns*.  
